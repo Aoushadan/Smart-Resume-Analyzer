@@ -164,15 +164,15 @@ def run():
                     pass
                 cand_level = ''
                 if resume_data['no_of_pages'] == 1:
-                    cand_level = "Fresher"
+                    cand_level = "Exposed"
                     st.markdown('''<h4 style='text-align: left; color: #d73b5c;'>You are looking Fresher.</h4>''',
                                 unsafe_allow_html=True)
                 elif resume_data['no_of_pages'] == 2:
-                    cand_level = "Intermediate"
+                    cand_level = "Handson"
                     st.markdown('''<h4 style='text-align: left; color: #1ed760;'>You are at intermediate level!</h4>''',
                                 unsafe_allow_html=True)
                 elif resume_data['no_of_pages'] >= 3:
-                    cand_level = "Experienced"
+                    cand_level = "Worked on advanced areas such as Agentic RAG,Evals"
                     st.markdown('''<h4 style='text-align: left; color: #fba171;'>You are at experience level!''',
                                 unsafe_allow_html=True)
 
