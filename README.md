@@ -1,6 +1,6 @@
 
 This project is created by Job Aoushadan 
-# Smart Resume Analyser 
+# Smart Resume Analyzer 
 Detailed explanation for TATA GROUP Generative AI-Powered Resume Analyzer Task
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
