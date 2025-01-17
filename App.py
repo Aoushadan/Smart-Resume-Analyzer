@@ -85,7 +85,7 @@ connection = pymysql.connect(host='localhost', user='root', password='')
 cursor = connection.cursor()
 
 
-def insert_data(name, email, res_score, timestamp, no_of_pages, reco_field, cand_level, skills, recommended_skills,
+def insert_data(name, email,university,yearofstudy,course,cgpa/percentage res_score, timestamp, no_of_pages, reco_field, cand_level, skills, recommended_skills,
                 courses):
     DB_table_name = 'user_data'
     insert_sql = "insert into " + DB_table_name + """
@@ -125,6 +125,10 @@ def run():
                     (ID INT NOT NULL AUTO_INCREMENT,
                      Name varchar(100) NOT NULL,
                      Email_ID VARCHAR(50) NOT NULL,
+                     University VARCHAR(50) NOT NULL,
+                     Year of Study INT(50) NOT NULL,
+                     Course VARCHAR(50) NOT NULL,
+                     CGPA/Percentage INT(50) NOT NULL,
                      resume_score VARCHAR(8) NOT NULL,
                      Timestamp VARCHAR(50) NOT NULL,
                      Page_no VARCHAR(5) NOT NULL,
