@@ -40,7 +40,7 @@ This project is created by Job Aoushadan
 ## Screenshots
 
 ## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
+<img src="https://raw.githubusercontent.com/Aoushadan/Smart-Resume-Analyzer/refs/heads/main/sc1.PNG">
 
 ## Admin Side
 <img 
