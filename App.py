@@ -126,7 +126,7 @@ def run():
                      Name varchar(100) NOT NULL,
                      Email_ID VARCHAR(50) NOT NULL,
                      University VARCHAR(50) NOT NULL,
-                     Year of Study INT(50) NOT NULL,
+                     Yearofstudy INT(50) NOT NULL,
                      Course VARCHAR(50) NOT NULL,
                      CGPA/Percentage INT(50) NOT NULL,
                      resume_score VARCHAR(8) NOT NULL,
