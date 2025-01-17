@@ -44,5 +44,5 @@ This project is created by Job Aoushadan
 
 ## Admin Side
 <img 
-src<https://raw.githubusercontent.com/Aoushadan/Smart-Resume-Analyzer/refs/heads/main/sc2.PNG>
+src="https://raw.githubusercontent.com/Aoushadan/Smart-Resume-Analyzer/refs/heads/main/sc2.PNG">
 
