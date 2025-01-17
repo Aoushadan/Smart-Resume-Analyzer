@@ -35,7 +35,7 @@ This project is created by Job Aoushadan
   ```
 - `Uploaded_Resumes` folder is contaning the user's uploaded resumes.
 
-- Admin side credentials is `machine_learning_hub` and password is `mlhub123`. 
+- Admin side credentials is `job_aoushadan` and password is `tatagroup123`. 
 
 ## Screenshots
 
